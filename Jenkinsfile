@@ -21,7 +21,7 @@ pipeline {
             dockerImage.push()
           }
         }
-      }
-    }
-  }
+}
+}
+}
 }
